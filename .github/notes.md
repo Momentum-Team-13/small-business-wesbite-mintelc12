@@ -1,0 +1,7 @@
+- make files (index.html, info.html, in-stock.html)
+- homepage
+    - name of the business - level 1 heading
+    - picture of the store interior
+    - navigation menu
+        - three links pointing to homepage
+        - 
